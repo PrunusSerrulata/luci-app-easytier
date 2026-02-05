@@ -30,8 +30,8 @@ jobs:
         arch:
           - aarch64_cortex-a53
         sdk:
-          - 21.02
-          - 24.10
+          - 21.02.3
+          - 24.10-SNAPSHOT
           - SNAPSHOT
 
     steps:
